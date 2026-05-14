@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Claude Linux
+Comment=Native Claude desktop client for Linux
+Exec=claude-linux-desktop
+Icon=claude-linux
+Terminal=false
+Categories=Network;Chat;Office;
+StartupWMClass=io.github.bakram.claudelinux
